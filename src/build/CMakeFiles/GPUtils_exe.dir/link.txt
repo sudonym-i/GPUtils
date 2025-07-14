@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/GPUtils_exe.dir/source/main.cpp.o CMakeFiles/GPUtils_lib.dir/source/lib.cpp.o "CMakeFiles/GPUtils_lib.dir/source/CUDA-kernels/add.cu.o" -o GPUtils   -L/usr/local/cuda/targets/x86_64-linux/lib/stubs  -L/usr/local/cuda/targets/x86_64-linux/lib  /usr/lib/x86_64-linux-gnu/libfmt.so.9.1.0 -lcudadevrt -lcudart_static -lrt -lpthread -ldl 
