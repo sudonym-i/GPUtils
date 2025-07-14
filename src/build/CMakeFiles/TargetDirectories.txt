@@ -1,4 +1,0 @@
-/home/sudonym/repos/GPUtils/src/build/CMakeFiles/GPUtils_lib.dir
-/home/sudonym/repos/GPUtils/src/build/CMakeFiles/GPUtils_exe.dir
-/home/sudonym/repos/GPUtils/src/build/CMakeFiles/edit_cache.dir
-/home/sudonym/repos/GPUtils/src/build/CMakeFiles/rebuild_cache.dir
