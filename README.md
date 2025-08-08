@@ -1,3 +1,9 @@
+# TODO
+
+build everything, lol. 
+I have it lazily, half setup for summing csv columns in large data files (its not finished)
+
+
 # GPUtils
 
 This is the GPUtils project.
