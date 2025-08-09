@@ -4,6 +4,16 @@ build everything, lol.
 I have it lazily, half setup for summing csv columns in large data files (its not finished)
 
 
+
+
+CUDA documentation is at https://docs.nvidia.com/cuda/cuda-c-programming-guide/
+
+
+
+
+
+
+
 # GPUtils
 
 This is the GPUtils project.
